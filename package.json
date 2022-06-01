@@ -1,7 +1,7 @@
 {
-    "name": "semana_16",
+    "name": "semana_17",
     "version": "1.0.0",
-    "description": "Autenticação com Passport",
+    "description": "Tornando sua aplicação ainda mais segura",
     "main": "index.js",
     "scripts": {
         "preinstall": "npx npm-force-resolutions"
